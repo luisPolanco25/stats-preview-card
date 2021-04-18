@@ -97,8 +97,7 @@ main {
     height: 100%;
     width: 100%;
     border-radius: 0px 10px 10px 0px;
-    opacity: 0.4;
-    filter:contrast(122%);
+    mix-blend-mode: multiply;
 }
 
 
