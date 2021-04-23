@@ -100,20 +100,6 @@ main {
     mix-blend-mode: multiply;
 }
 
-
-.attribution {
-    width: 100%;
-    text-align: center;
-    margin-top: 17%;
-    font-size: 1em;
-    text-align: center; 
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%); 
-}
-
-
 @media (max-width: 950px) {
     body {
         font-size: 18px;
